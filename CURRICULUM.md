@@ -2052,7 +2052,7 @@ The earlier "✅ 100% Complete" claim was inaccurate. As of 2026-05-22 the curri
 | 102 Cloud | 8 | **8 ✅** | 4 | **4 ✅** |
 | 103 Containerization | 12 | **12 ✅** | 6 | **6 ✅** |
 | 104 Kubernetes | 15 | 3 | 8 | **8 ✅** |
-| 105 Data Pipelines | 12 | 2 | 6 | **6 ✅** |
+| 105 Data Pipelines | 12 | **12 ✅** | 6 | **6 ✅** |
 | 106 MLOps | 14 | 3 | 7 | **7 ✅** |
 | 107 GPU | 11 | 3 | 6 | **6 ✅** |
 | 108 Monitoring | 10 | **10 ✅** | 5 | **5 ✅** |
